@@ -13,6 +13,8 @@
 | **Horizon Home** (`horizon-home/`) | شاشة رئيسية لأجهزة Android TV: مشغّل IPTV (‏Xtream Codes وروابط M3U)، والمفضلة، ومتابعة المشاهدة، والخلفيات وأيقونات التطبيقات، بـ 9 لغات. |
 | **Horizon TV Setup** (`setup-app/`) | برنامج لنظام Windows يتصل بالتلفزيون عبر Wi-Fi، ويكتشف الخدمات المتطفلة تلقائيًا ويزيلها، ويثبّت Horizon Home، ويدير الخلفيات والأيقونات. يمكن التراجع عن كل تغيير. |
 
+<p align="center"><img src="docs/home-ar.jpg" alt="الشاشة الرئيسية في Horizon Home" width="100%"></p>
+
 ### التنزيل
 حمّل الملفات الجاهزة من مجلد [`release/`](release):
 - **`Horizon TV Setup.exe`:** شغّله على أي كمبيوتر بنظام Windows. لا يحتاج إلى تثبيت، وكل ما يلزمه (adb وHorizon Home) موجود بداخله.
@@ -33,7 +35,11 @@
 - **اللغات:** العربية، والإنجليزية، والإسبانية، والبرتغالية، والإندونيسية، والصينية (الماندرين)، والروسية، والتركية، والأردية. تتبع لغة النظام، والعربية والأردية تُعرضان من اليمين إلى اليسار.
 - **صغيرة وخفيفة:** حجمها نحو 1.3 ميجابايت، وصفحات الأقسام لا تنشئ إلا الصفوف الظاهرة على الشاشة.
 
+<p align="center"><img src="docs/series-ar.jpg" alt="قائمة المسلسلات في Horizon Home" width="100%"></p>
+
 ### Horizon TV Setup (لنظام Windows)
+<p align="center"><img src="docs/setup-ar.png" alt="تبويب التنظيف في Horizon TV Setup" width="100%"></p>
+
 1. **الاتصال:** فعّل تصحيح الأخطاء على التلفزيون (الخطوات معروضة في البرنامج)، واكتب عنوان IP الخاص به، ثم اضغط اتصال.
 2. **التنظيف:** يُفحص التلفزيون تلقائيًا.
    - **محددة لك:** التتبع والتحليلات والإعلانات، وصفوف الإعلانات والتوصيات.
@@ -70,6 +76,8 @@ A clean, fast home screen for Android TV, with a built-in IPTV player, plus a Wi
 | **Horizon Home** (`horizon-home/`) | An Android TV launcher: home screen, IPTV player (Xtream Codes and M3U), favourites, Continue Watching, wallpapers and app icons, in 9 languages. |
 | **Horizon TV Setup** (`setup-app/`) | A Windows app that connects to the TV over Wi-Fi, finds invasive services automatically and removes them, installs Horizon Home, and manages wallpapers and icons. Every change can be undone. |
 
+<p align="center"><img src="docs/home-en.jpg" alt="Horizon Home: home screen" width="100%"></p>
+
 ### Download
 Grab the ready-made files from the [`release/`](release) folder:
 - **`Horizon TV Setup.exe`:** run it on any Windows PC. It needs no install, and everything it needs (adb and Horizon Home) is inside.
@@ -90,7 +98,11 @@ Grab the ready-made files from the [`release/`](release) folder:
 - **Languages:** English, Arabic, Spanish, Portuguese, Indonesian, Mandarin, Russian, Turkish and Urdu. It follows the system language, and Arabic and Urdu lay out right to left.
 - **Small and light:** about 1.3 MB. Category pages only build the rows on screen.
 
+<p align="center"><img src="docs/series-en.jpg" alt="Horizon Home: series list" width="100%"></p>
+
 ### Horizon TV Setup (Windows)
+<p align="center"><img src="docs/setup-en.png" alt="Horizon TV Setup: clean-up tab" width="100%"></p>
+
 1. **Connect:** turn on debugging on the TV (the steps are shown in the app), type its IP address and press Connect.
 2. **Clean up:** the TV is scanned automatically.
    - **Ticked for you:** tracking, analytics and ads, and ad or recommendation rows.
